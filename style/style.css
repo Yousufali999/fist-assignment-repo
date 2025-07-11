@@ -146,7 +146,7 @@ body{
 /* Focus_style_section  */
 .focus_contanier{
     text-align: center;
-    background-color:#FFFDE7 ;
+    background-color:#FFCCBC;
     padding: 71px 150px;
     margin-top: 130px;
     border-radius: 20px;
@@ -159,5 +159,12 @@ body{
     max-width:840px ;
     border-radius: 48px;
     margin-top: 20px;
+}
+/* Tuoch-Style  */
+.toch_continer{
+    display: flex;
+    background-color:#ECEFF1 ;
+    margin-top: 130px;
+    align-items: center;
 }
  
