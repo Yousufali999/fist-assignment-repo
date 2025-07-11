@@ -1,0 +1,30 @@
+body{
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+}
+
+/* Share_Style  */
+.logo_color{
+    color: #4E47FF;
+}
+.primary_bton{
+    font-size: 16px;
+    font-weight: bold;
+    padding: 12px 36px;
+    color: #FFFFFF;
+    background-color: #4E47FF;
+    border: none;
+    border-radius: 5px;
+
+}
+/* Nav_Style  */
+.nav_section{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 150px;
+}
+.header_Logo{
+    font-size: 34px;
+     
+}
