@@ -161,10 +161,37 @@ body{
     margin-top: 20px;
 }
 /* Tuoch-Style  */
-.toch_continer{
+.touch_continer{
     display: flex;
     background-color:#ECEFF1 ;
     margin-top: 130px;
     align-items: center;
+    gap: 70px;
+    padding:70px ;
+    border-radius: 48px;
+}
+.touch-title{
+    font-size: 97px;
+    font-weight: bold;
+}
+label,input{
+    display: block;
+    margin-bottom: 10px;
+}
+input[type="text"],input[type="email"],textarea{
+    width:100%;
+    padding: 15px 25px;
+    border: none;
+    background-color: white;
+    border-radius: 10px;
+}
+/* input[type="submit"]{
+    width: 100%;
+    padding: 15px 200px;
+} */
+.input_style{
+    display:block;
+    width: 120%;
+    margin-top: 10px;
 }
  
