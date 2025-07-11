@@ -25,6 +25,7 @@ body{
 }
 .primary_bton:hover{
     background-color: #EF6C00;
+    cursor: pointer;
 }
 /* Nav_Style  */
  header{
