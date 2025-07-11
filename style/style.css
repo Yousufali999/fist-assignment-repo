@@ -134,6 +134,7 @@ body{
     background-color: #F2EDED;
     padding: 24px;
     border-radius: 20px;
+    box-shadow: 2px 2px 10px 1px #9CCC65,-2px -2px 10px 1px #9CCC65;
 }
 .Riviewe_name{
     display: flex;
@@ -150,7 +151,7 @@ body{
 /* Focus_style_section  */
 .focus_contanier{
     text-align: center;
-    background-color:#FFCCBC;
+    background-color: #ECEFF1 ;
     padding: 71px 150px;
     margin-top: 130px;
     border-radius: 20px;
@@ -167,7 +168,7 @@ body{
 /* Tuoch-Style  */
 .touch_continer{
     display: flex;
-    background-color:#ECEFF1 ;
+    background-color: #FFCCBC ;
     margin-top: 130px;
     align-items: center;
     gap: 70px;
