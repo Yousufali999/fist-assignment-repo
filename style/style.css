@@ -7,6 +7,7 @@ body{
 .logo_color{
     color: #4E47FF;
 }
+ 
 .primary_bton{
     font-size: 16px;
     font-weight: bold;
@@ -18,12 +19,18 @@ body{
 
 }
 /* Nav_Style  */
- 
+ header{
+    background-image: url(../imges/Hero-bg.png);
+    background-size: cover;
+    background-position: center;
+    
+}
 .nav_section{
     display:flex;
     align-items: center;
     justify-content: space-between;
     padding: 0 150px;
+     
 }
 .header_Logo{
     font-size: 34px;
@@ -33,11 +40,36 @@ body{
     margin: auto;
     max-width: 905px;
     text-align: center;
+    padding: 120px;
 }
 .hero_title{
     font-size: 65px;
     font-weight: bold;
+    color: #252432;    
+}
+/* Main_Section_Style  */
+.main_section{
+    max-width: 1140px;
+    margin: auto;
+}
+.Action_content{
+    display: flex;
+    align-items:center;
+    gap: 220px;
+    margin-top: 85px;
+  
+}
+.action_title{
+    font-size: 42px;
+    font-weight: bold;
+    margin-bottom: 5px;
     color: #252432;
-    
      
+}
+.action_description{
+  font-size: 24px;  
+  color: #252432;
+}
+.action_image{
+    border-radius: 48px;
 }
