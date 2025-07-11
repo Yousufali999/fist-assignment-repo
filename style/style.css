@@ -108,7 +108,9 @@ body{
 /* What_User_Say_Style  */
 .user_say-content{
     margin-top: 137px;
-    background-color: rgba(0, 255, 255, 0.541);
+    background-color:#81D4FA;
+    padding: 70px 20px 30px;
+    border-radius: 48px;
     
 }
 .user_say-title{
@@ -141,4 +143,21 @@ body{
     line-height: 0px; 
 }
  
+/* Focus_style_section  */
+.focus_contanier{
+    text-align: center;
+    background-color:#FFFDE7 ;
+    padding: 71px 150px;
+    margin-top: 130px;
+    border-radius: 20px;
+}
+.focus_tilte{
+    font-size: 50px;
+    font-weight: bold;
+}
+.focus_img{
+    max-width:840px ;
+    border-radius: 48px;
+    margin-top: 20px;
+}
  
