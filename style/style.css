@@ -3,9 +3,14 @@ body{
   font-style: normal;
 }
 
+
 /* Share_Style  */
 .logo_color{
     color: #4E47FF;
+}
+
+.description_color{
+    color: #757575;
 }
  
 .primary_bton{
@@ -124,3 +129,16 @@ body{
     padding: 24px;
     border-radius: 20px;
 }
+.Riviewe_name{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+.rivew_img{
+    border-radius: 30px;
+}
+.view_date{
+    line-height: 0px; 
+}
+ 
+ 
